@@ -1,1 +1,5 @@
 *.a
+
+# only ignore the TODO file in the current dir
+/build
+
